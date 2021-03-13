@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyCalisthenicArea</string>
+    <string name="text_button">Connexion</string>
+    <string name="title_default">titre par défaut</string>
+    <string name="text_default">text par défaut</string>
+    <string name="text_button_scan">scan moi</string>
+    <string name="text_description">Devient le meilleur</string>
+    <string name="text_action_food">Nourriture</string>
+    <string name="text_action_goals">Objectifs</string>
+    <string name="text_action_newspaper">Journal</string>
+    <string name="text_action_training">Entrainement</string>
+    <string name="text_action_forum">Forum</string>
+    <string name="text_action_settings">Paramètres</string>
+    <string name="text_search_product">Rechercher un produit</string>
+    <string name="text_tab_item_current">Produits courants</string>
+    <string name="text_tab_item_scan">Scanner un produit</string>
+    <string name="text_tab_item_new_product">Ajouter un produit</string>
+    <string name="text_nav_home">Accueil</string>
+    <string name="text_nav_search">Recherche</string>
+    <string name="text_nav_settings">Paramètres</string>
+</resources>

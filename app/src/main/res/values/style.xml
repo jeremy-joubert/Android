@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="title">
+        <item name="android:textSize">20sp</item>
+        <item name="color">@color/grey_900</item>
+    </style>
+    <style name="title2">
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="action_style">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="tab_style" parent="Widget.Design.TabLayout">
+       <item name="tabBackground">@color/blue_700</item>
+        <item name="tabTextColor">@color/blue_100</item>
+        <item name="tabSelectedTextColor">@color/white</item>
+    </style>
+
+</resources>
